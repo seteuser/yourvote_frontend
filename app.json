@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "sdkVersion": "26.0.0",
+    "name": "YourVote",
+    "description": "Your Vote",
+    "ios": {
+      "supportsTablet": true
+    },
+	
+	"android": {
+      "package": "com.lucasluizss.yourvote"
+    }
+  }
+}
